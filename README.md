@@ -2,7 +2,7 @@
 
 Основные этапы работы:
 
-🗺️ Составил User Story Map в и выделил MVP в [Miro]( https://miro.com/app/board/uXjVJeUM8d8=/).
+🗺️ Составил User Story Map и выделил MVP в [Miro]( https://miro.com/app/board/uXjVJeUM8d8=/).
 
 📊 Разработал диаграммы: DFD контекстного и логического уровня, ER-диаграмму в [Draw.io](https://drive.google.com/file/d/1q7mXHYt5Vm-h0u3Zp6WRtdi-uYqyrMII/view?usp=drive_link).
 
